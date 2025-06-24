@@ -1,18 +1,18 @@
 
-# 📊 IPL Power BI Dashboard Project
+# IPL Power BI Dashboard Project
 
 This is an interactive Power BI Dashboard created using IPL match data from 2008 to 2024. The goal of this project is to analyze team performances, toss decisions, match trends, and key players across all seasons.
 
-## 🔍 Insights from the Dashboard
+## Insights from the Dashboard
 
 Here are the key insights uncovered from this dashboard:
 
-### 📌 KPI Cards
+### KPI Cards
 - *Total Matches:* Displays the total number of IPL matches held (2008–2024).
 - *Total Seasons:* Total IPL seasons included in the dataset.
 - *Total Teams:* Number of different teams that participated over the years.
 
-### 📊 Visual Insights
+### Visual Insights
 
 - *Toss Decision Distribution (Donut Chart):*
   > Analyzes how often teams chose to bat or field after winning the toss.
@@ -35,8 +35,12 @@ Here are the key insights uncovered from this dashboard:
 - *City Filter (Slicer):*
   > Allows users to filter the dashboard by specific cities to view local match data.
 
-## 🛠 Tools Used
+## Tools Used
 - *Power BI*
 - *DAX (Data Analysis Expressions)*
 - *MS Excel* (for data cleaning)
 - *IPL Dataset* (2008–2024)
+
+## Dashboard
+![dashboard_screenshot](https://github.com/user-attachments/assets/224234ee-cc1d-4e26-b584-87d7365c4c91)
+
